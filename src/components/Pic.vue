@@ -21,11 +21,15 @@ export default {
     mounted () {
         const category =  this.$route.params.category
         const womenImages = [
-            'https://i.loli.net/2018/12/29/5c26ef2aa2bea.jpg'
+            'https://i.loli.net/2018/12/29/5c26ef2aa2bea.jpg',
+            'https://i.loli.net/2018/12/29/5c2741355b4b7.jpg',
+            'https://i.loli.net/2018/12/29/5c274298ef12c.jpg',
+            'https://i.loli.net/2018/12/29/5c2746326dc45.jpg'
         ]
 
         const techImages = [
-            'https://i.loli.net/2018/12/29/5c273cec0c5d0.gif'
+            'https://i.loli.net/2018/12/29/5c273cec0c5d0.gif',
+            'https://i.loli.net/2018/12/29/5c2743fb56b59.jpeg'
         ]
         const animalImages = [
             'https://i.loli.net/2018/12/29/5c273dadc3cd8.jpg'
