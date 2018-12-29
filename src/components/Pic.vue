@@ -29,7 +29,8 @@ export default {
 
         const techImages = [
             'https://i.loli.net/2018/12/29/5c273cec0c5d0.gif',
-            'https://i.loli.net/2018/12/29/5c2743fb56b59.jpeg'
+            'https://i.loli.net/2018/12/29/5c2743fb56b59.jpeg',
+            'https://i.loli.net/2018/12/29/5c27478a4ea26.jpg'
         ]
         const animalImages = [
             'https://i.loli.net/2018/12/29/5c273dadc3cd8.jpg'
