@@ -8,9 +8,9 @@
         <b-collapse is-nav id="nav_collapse">
 
             <b-navbar-nav>
-            <b-nav-item href="#">女人</b-nav-item>
-            <b-nav-item href="#">科技</b-nav-item>
-            <b-nav-item href="#">动物</b-nav-item>
+            <b-nav-item href="/pic/women">女人</b-nav-item>
+            <b-nav-item href="/pic/tech">科技</b-nav-item>
+            <b-nav-item href="/pic/animal">动物</b-nav-item>
             </b-navbar-nav>
 
             <!-- Right aligned nav items -->
